@@ -1,4 +1,5 @@
 #Enfuego.js
+###An inside joke bookmarket
 
 * Step 1: copy the following code:
 
